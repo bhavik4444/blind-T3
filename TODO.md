@@ -1,8 +1,10 @@
 #Blind T3
 
 ## Core Game Design
-- [ ] adding structure to store the data of the cells of the grid
+- [X] adding structure to store the data of the cells of the grid
+- [ ] adding players from user_input
 - [ ] allowing the players to change the data of any cell
+- [ ] creating main game flow
 - [ ] figuring out if any player has won
 - [ ] managing scores
 - [ ] adding ascii arts and make more interactive
