@@ -21,5 +21,5 @@ python main.py
 
 ## Author
 **Bhavik Jain** 
-My Final Project for CS50P (Intro to Programming with Python) course By Prof. David J. Malan MIT. 
 College First Year Student
+My Final Project for CS50P (Intro to Programming with Python) course By Prof. David J. Malan MIT. 
